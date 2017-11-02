@@ -1,0 +1,2 @@
+Hidden Markov models (HMMs) are a popular approach for modeling sequential data comprising continuous attributes. In such applications, the observation emission densities of the HMM hidden states are typically modeled by means of elliptically contoured distributions, usually multivariate Gaussian or Student’s-t densities. However, elliptically contoured distributions cannot sufficiently model heavy-tailed or skewed populations which are typical in many fields, such as the financial and the community
+JOURNAL:IEEE Transactions on Pattern Analysis and Machine Intelligence
